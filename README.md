@@ -63,6 +63,7 @@ Training:
 # Design
 
 Goal: understand and lead designers
+
 Tools for wireframes and mockups:
 
 - [miro](https://miro.com/) 
@@ -111,6 +112,7 @@ Books:
 # Marketing
 
 Goal: segment markets and grow
+
 Tools:
 
 - Needs - Features - Benefits - finding ideas
@@ -127,6 +129,7 @@ Books:
 # Strategy
 
 Goal: develop and implement vision
+
 Books:
 
 - Inspired by Marty Cagan
@@ -139,6 +142,7 @@ Books:
 # Development
 
 Goal: understand and lead developers; prioritize backlog
+
 Planning type:
 
 - Waterflow
@@ -168,6 +172,7 @@ Prioritization frameworks ([1](https://welldoneby.com/blog/5-prioritization-tech
 # Management
 
 Goal: understand and lead people
+
 Tools: 
 
 - [OKR](https://library.gv.com/how-google-sets-goals-okrs-a1f69b0b72c7) (Google)
