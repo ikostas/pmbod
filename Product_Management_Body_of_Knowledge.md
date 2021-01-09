@@ -1,0 +1,187 @@
+# Product Management Body of Knowledge 
+
+- Basics
+- Design
+- Business Overview
+- Marketing
+- Strategy
+- Development
+- Management
+# Basics
+## Skills
+- Vision
+- Execution
+- Leadership
+## MVP
+
+[MVP Types](https://rubygarage.org/blog/what-is-a-minimum-viable-product):
+
+- [Smoke test](https://cxl.com/blog/smoke-test/#:~:text=The%20term%20smoke%20test%20was,of%20the%20software%20work%20correctly%E2%80%9D)
+- Concierge - product is not finished yet, doesn’t hide real people deliver
+- Wizard of Oz - like the product is finished
+- Piecemeal
+
+[MVP Tools](https://eko-adetolani.medium.com/how-to-test-your-product-with-an-mvp-83beb12b3f7a) (e.g. for smoke test):
+
+- Email
+- Shadow Button
+- 404 and coming soon
+- Explainer video
+- Landing page
+## More on Hypothesis Testing ([1](https://www.toptal.com/product-managers/data/product-hypothesis-testing#:~:text=This%20validation%20is%20traditionally%20done,change%20and%20then%20defines%20success.&text=Thus%2C%20product%20decisions%20on%20features,validate%20the%20performance%20of%20features.))
+
+Test types:
+
+- A/B test
+- Multivariate Testing
+- Before/After Testing
+- Time-based On/Off Testing
+- UX testing: showing wireframe / mockup / prototype
+- [Idea Validation](https://itamargilad.com/idea-validation-much-more-than-just-a-b-experiments/?fbclid=IwAR2Vhg1sOVmYN9SFeJfbyW4B7Ke_JQsrGNSJJ8_tjPiNxYzFtDgzvtl-27I)
+
+Recruiting participants for user interview:
+
+- [How to Recruit Participants for Usability Studies](https://www.nngroup.com/reports/how-to-recruit-participants-usability-studies/) by Nielsen Norman Group
+- [95 ways](https://jasonevanish.com/2013/08/11/95-ways-to-find-your-first-customers-for-customer-development-or-your-first-sale/)
+
+Books:
+
+- Harry Potter and the Methods of Rationality by Eliezer Yudkowsky
+- User Story Mapping: Discover the Whole Story, Build the Right Product by Jeff Patton
+- Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days by Jake Knapp, John Zeratsky, and Braden Kowitz
+- The Four Steps to the Epiphany by Steven G. Blank - **a customer development framework**
+- The Principles of Product Development Flow by Don Reinertsen
+- Design Sprint: A Practical Guidebook for Building Great Digital Products by Richard Banfield, C. Todd Lombardo, and Trace Wax
+- Lean Customer Development: Building Products Your Customers Will Buy by Cindy Alvarez
+- Lean, Rapid, and Profitable New Product Development by Robert Cooper
+
+Training:
+
+- [Product management 101](https://www.udemy.com/course/productmanagement101/learn/)
+- [Become a Product Manager](https://www.udemy.com/course/become-a-product-manager-learn-the-skills-get-a-job/learn/)
+- [The complete PM course](https://www.udemy.com/course/the-complete-product-management-course/learn/)
+# Design
+
+Goal: understand and lead designers
+Tools for wireframes and mockups:
+
+- [miro](https://miro.com/) 
+- [Balsamiq](https://balsamiq.com/), [Axure](https://www.axure.com/), [OmniGraffle](https://www.omnigroup.com/omnigraffle/)
+- [Pencil](http://pencil.evolus.vn/), [wireframe](https://wireframe.cc/), [wireframesketcher](https://wireframesketcher.com/), [Ninjamock](https://ninjamock.com/), [origami](https://origami.design/), [sketch](https://www.sketch.com/), [figma](https://www.figma.com/), [invisionapp](https://www.invisionapp.com/)
+
+Training:
+
+- UX training **TBD**
+
+Books:
+
+- Don't Make Me Think by Steve Krug
+- The Design of Everyday Things by Don Norman
+- Forms that Work: Designing Web Forms for Usability by Caroline Jarret
+- Rocket Surgery Made Easy by Steve Krug
+- A Web for Everyone: Designing Accessible User Experiences by Sarah Horton and Whitney
+- Guidelines for Accessible and Usable Web Sites by Mary Frances Theofanos
+# Business Overview
+
+Goal: understand business model, set and measure business goals
+
+- [Unit economics](https://www.lean-case.com/unit-economics-viable-business-model/)
+- New business models: [1](https://hbr.org/2016/10/the-transformative-business-model), [2](https://bernardmarr.com/default.asp?contentID=1847), [3](https://singularityhub.com/2020/01/30/7-business-models-reshaping-how-we-work-live-and-create-value/)
+
+Metrics
+
+- Pirate metrics: [1](https://500hats.typepad.com/500blogs/2007/09/startup-metrics.html), [2](https://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version), [3](https://www.youtube.com/watch?v=irjgfW0BIrw)
+- [HEART](https://library.gv.com/how-to-choose-the-right-ux-metrics-for-your-product-5f46359ab5be): [how to choose metrics](https://www.dtelepathy.com/ux-metrics/)
+- [15 Key Product Management Metrics and KPIs](https://www.altexsoft.com/blog/business/15-key-product-management-metrics-and-kpis/)
+
+Tools:
+
+- [Google Analytics](https://analytics.google.com/analytics/web/)
+- [CrazyEgg](https://www.crazyegg.com/)
+- [Optimizely](https://www.optimizely.com/)
+- [MixPanel](https://mixpanel.com/)
+- [KISSMetrics](https://www.kissmetrics.io/)
+- [Segment](https://segment.com/)
+- [Crunchbase](https://www.crunchbase.com/)
+
+Books:
+
+- Business Model Generation by Alexander Osterwalder, Yves Pigneur
+- Lean Startup by Eric Ries
+# Marketing
+
+Goal: segment markets and grow
+Tools:
+
+- Needs - Features - Benefits - finding ideas
+- SWOT Analysis - finding a market fit
+- Persona and Empathy map - relate to users
+- Profiling market segments
+- Strategy Diamond
+
+Books:
+
+- Hacking Growth, Shon Ellis
+- Crossing the Chasm by Geoffrey Moore
+- Just enough research. Your Customer Creation Equation by Brian Massey
+# Strategy
+
+Goal: develop and implement vision
+Books:
+
+- Inspired by Marty Cagan
+- Empowered: Ordinary People, Extraordinary Products by Marty Cagan
+- Escaping the Build Trap by Melissa Perri 
+- Product Roadmaps Relaunched by C. Todd Lombardo and Bruce McCarthy
+- The Art of Product Management by Rich Mironov
+- Delivering Happiness by Tony Hsie
+- [Are you sure you have a strategy?](https://www.uio.no/studier/emner/matnat/sfe/ENT4400/h07/undervisningsmateriale/are%20you%20sure%20you%20have%20a%20strategy.pdf) by Donald C. Hambrick and James W. Fredrickson
+# Development
+
+Goal: understand and lead developers; prioritize backlog
+Planning type:
+
+- Waterflow
+- Agile
+- SCRUM
+- Kanban
+
+Tools:
+
+- User stories template
+- Backlog
+- Icebox
+
+Prioritization frameworks ([1](https://welldoneby.com/blog/5-prioritization-techniques-to-narrow-a-product-backlog/), [2](https://www.perforce.com/blog/hns/4-product-backlog-prioritization-techniques-work), [3](https://foldingburritos.com/product-prioritization-techniques/)):
+
+- Assumption Testing
+- MoSCoW
+- BUC
+- RICE
+- ICE
+- Kano
+- Opportunity Scoring
+- Story Mapping
+- Stack Ranking
+- Cost of Delay
+- Etc.
+# Management
+
+Goal: understand and lead people
+Tools: 
+
+- [OKR](https://library.gv.com/how-google-sets-goals-okrs-a1f69b0b72c7) (Google)
+
+Books:
+
+- High Output Management by Andrew Grove (source for OKR)
+- Talking to Humans by Giff Constable
+- Letting Go of the Words by Ginny Redish
+- How to Get People to Do Stuff by Susan Weinschenk
+- Extreme Ownership by Jocko Willink and Leif Babin
+- Influence at Work by Robert B. Cialdini
+- Servant Leadership by Robert K. Greenleaf
+# Thank You
+- [Andrey Malenkov](https://www.facebook.com/andriy.malenkov)
+- [Dementiy Nenakhov](https://www.facebook.com/profile.php?id=100053059877077)
+
