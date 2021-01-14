@@ -95,25 +95,25 @@ Metrics
 - [HEART](https://library.gv.com/how-to-choose-the-right-ux-metrics-for-your-product-5f46359ab5be): [how to choose metrics](https://www.dtelepathy.com/ux-metrics/)
 - [15 Key Product Management Metrics and KPIs](https://www.altexsoft.com/blog/business/15-key-product-management-metrics-and-kpis/)
 
-Web statistics:
+Web statistics tools:
 
 - [Google Analytics](https://analytics.google.com/analytics/web/)
 - [CrazyEgg](https://www.crazyegg.com/)
 - [KISSMetrics](https://www.kissmetrics.io/)
 
-A/B testing:
+A/B testing tools:
 
 - [Optimizely](https://www.optimizely.com/)
 
-App analytics:
+App analytics tools:
 
 - [MixPanel](https://mixpanel.com/)
 
-Customer data platform (CDP) service:
+Customer data platform (CDP) service tools:
 
 - [Segment](https://segment.com/)
 
-Finding business information about private and public companies
+Finding business information about private and public companies tools:
 
 - [Crunchbase](https://www.crunchbase.com/)
 
