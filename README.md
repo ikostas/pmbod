@@ -95,14 +95,26 @@ Metrics
 - [HEART](https://library.gv.com/how-to-choose-the-right-ux-metrics-for-your-product-5f46359ab5be): [how to choose metrics](https://www.dtelepathy.com/ux-metrics/)
 - [15 Key Product Management Metrics and KPIs](https://www.altexsoft.com/blog/business/15-key-product-management-metrics-and-kpis/)
 
-Tools:
+Web statistics:
 
 - [Google Analytics](https://analytics.google.com/analytics/web/)
 - [CrazyEgg](https://www.crazyegg.com/)
-- [Optimizely](https://www.optimizely.com/)
-- [MixPanel](https://mixpanel.com/)
 - [KISSMetrics](https://www.kissmetrics.io/)
+
+A/B testing:
+
+- [Optimizely](https://www.optimizely.com/)
+
+App analytics:
+
+- [MixPanel](https://mixpanel.com/)
+
+Customer data platform (CDP) service:
+
 - [Segment](https://segment.com/)
+
+Finding business information about private and public companies
+
 - [Crunchbase](https://www.crunchbase.com/)
 
 Books:
@@ -187,6 +199,6 @@ Books:
 - Influence at Work by Robert B. Cialdini
 - Servant Leadership by Robert K. Greenleaf
 # Thank You
-- [Andrey Malenkov](https://www.facebook.com/andriy.malenkov)
+- [Andrey Malenkov](https://www.facebook.com/andriy.malenkov) @AndriyMal
 - [Dementiy Nenakhov](https://www.facebook.com/profile.php?id=100053059877077)
 
