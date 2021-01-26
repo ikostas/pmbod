@@ -231,7 +231,7 @@ Books:
 - [Top 100 Resources for Product Managers](https://www.sachinrekhi.com/top-resources-for-product-managers)
 - [Product School resources and communities](https://productschool.com/free-product-management-resources/)
 - [A Living List Of Product Management Resources You’ll Want To Bookmark](https://medium.com/infinitypm/a-living-list-of-product-management-resources-youll-want-to-bookmark-c80b45aa1026)
-- [The Ultimate Guide to Resources for Product Managers - ProductPlan](The Ultimate Guide to Resources for Product Managers)
+- [The Ultimate Guide to Resources for Product Managers - ProductPlan](https://www.productplan.com/learn/resources-for-product-managers/)
 - [14 Must-Read Books for Product Managers - ProductPlan](https://www.productplan.com/books-for-product-managers/)
 
 # Communities
