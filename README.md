@@ -7,11 +7,21 @@
 - Strategy
 - Development
 - Management
+
 # Basics
+
+## Glossary
+
+- [ProductPlan](https://www.productplan.com/glossary/)
+- [productboard](https://www.productboard.com/glossary/)
+- [Product School](https://productschool.com/product-glossary/)
+
 ## Skills
+
 - Vision
 - Execution
 - Leadership
+
 ## MVP
 
 [MVP Types](https://rubygarage.org/blog/what-is-a-minimum-viable-product):
@@ -28,6 +38,9 @@
 - 404 and coming soon
 - Explainer video
 - Landing page
+- HADI cycles: [1](https://ideas.repec.org/a/ssi/jouesi/v7y2019i2p1628-1640.html), [2](https://www.kaushik.net/avinash/lean-analytics-cycle-metrics-hypothesis-experiment-act/)
+- User (Customer) journey map
+
 ## More on Hypothesis Testing ([1](https://www.toptal.com/product-managers/data/product-hypothesis-testing#:~:text=This%20validation%20is%20traditionally%20done,change%20and%20then%20defines%20success.&text=Thus%2C%20product%20decisions%20on%20features,validate%20the%20performance%20of%20features.))
 
 Test types:
@@ -60,6 +73,7 @@ Training:
 - [Product management 101](https://www.udemy.com/course/productmanagement101/learn/)
 - [Become a Product Manager](https://www.udemy.com/course/become-a-product-manager-learn-the-skills-get-a-job/learn/)
 - [The complete PM course](https://www.udemy.com/course/the-complete-product-management-course/learn/)
+
 # Design
 
 Goal: understand and lead designers
@@ -82,6 +96,7 @@ Books:
 - Rocket Surgery Made Easy by Steve Krug
 - A Web for Everyone: Designing Accessible User Experiences by Sarah Horton and Whitney
 - Guidelines for Accessible and Usable Web Sites by Mary Frances Theofanos
+
 # Business Overview
 
 Goal: understand business model, set and measure business goals
@@ -121,6 +136,7 @@ Books:
 
 - Business Model Generation by Alexander Osterwalder, Yves Pigneur
 - Lean Startup by Eric Ries
+
 # Marketing
 
 Goal: segment markets and grow
@@ -128,8 +144,10 @@ Goal: segment markets and grow
 Tools:
 
 - Needs - Features - Benefits - finding ideas
+- JTBD
 - SWOT Analysis - finding a market fit
-- Persona and Empathy map - relate to users
+- Persona: [HubSpot](https://www.hubspot.com/make-my-persona), [Product School](https://productschool.com/blog/product-management-2/4-steps-create-user-persona-templates/)
+- [Empathy map](https://www.uxbooth.com/articles/empathy-mapping-a-guide-to-getting-inside-a-users-head/)
 - Profiling market segments
 - Strategy Diamond
 
@@ -138,6 +156,8 @@ Books:
 - Hacking Growth, Shon Ellis
 - Crossing the Chasm by Geoffrey Moore
 - Just enough research. Your Customer Creation Equation by Brian Massey
+- When Coffee and Kale Compete by Alan Klement
+
 # Strategy
 
 Goal: develop and implement vision
@@ -151,6 +171,7 @@ Books:
 - The Art of Product Management by Rich Mironov
 - Delivering Happiness by Tony Hsie
 - [Are you sure you have a strategy?](https://www.uio.no/studier/emner/matnat/sfe/ENT4400/h07/undervisningsmateriale/are%20you%20sure%20you%20have%20a%20strategy.pdf) by Donald C. Hambrick and James W. Fredrickson
+
 # Development
 
 Goal: understand and lead developers; prioritize backlog
@@ -181,6 +202,7 @@ Prioritization frameworks ([1](https://welldoneby.com/blog/5-prioritization-tech
 - Stack Ranking
 - Cost of Delay
 - Etc.
+
 # Management
 
 Goal: understand and lead people
@@ -198,7 +220,29 @@ Books:
 - Extreme Ownership by Jocko Willink and Leif Babin
 - Influence at Work by Robert B. Cialdini
 - Servant Leadership by Robert K. Greenleaf
+
+# Resources Lists
+
+- [Art + marketing](https://artplusmarketing.com/a-living-list-of-product-management-resources-c5dddbff8b12)
+- [13 Essential Books for Product Managers](https://blog.getenjoyhq.com/13-essential-books-for-mid-level-product-managers/)
+- [The 20 Most-Read Books by Top Product Managers](https://productschool.com/blog/product-management-2/top-most-read-books-by-product-managers/)
+- [The 7 books every Product Manager needs to learn by heart](https://veamly.medium.com/the-7-books-every-product-manager-needs-to-learn-by-heart-eb8a5a73aa47)
+- [The Ultimate List of Product Management Resources: Books, Blogs, and More](https://www.gainsight.com/blog/the-ultimate-list-of-product-management-resources-books-blogs-and-more/)
+- [Top 100 Resources for Product Managers](https://www.sachinrekhi.com/top-resources-for-product-managers)
+- [Product School resources and communities](https://productschool.com/free-product-management-resources/)
+- [A Living List Of Product Management Resources You’ll Want To Bookmark](https://medium.com/infinitypm/a-living-list-of-product-management-resources-youll-want-to-bookmark-c80b45aa1026)
+- [The Ultimate Guide to Resources for Product Managers - ProductPlan](The Ultimate Guide to Resources for Product Managers)
+- [14 Must-Read Books for Product Managers - ProductPlan](https://www.productplan.com/books-for-product-managers/)
+
+# Communities
+
+- [Quora - The Art of Product Management](https://www.quora.com/q/theartofproductmanagement)
+- [Product School - Slack Comminity](https://www.productschool.com/slack-community/)
+- [Product School - Facebook Community](https://www.facebook.com/groups/ProductManagersCommunity)
+- [Job for Products and Projects - Facebook](https://www.facebook.com/groups/forproducts/)
+- [Product Management - Vin Colella](https://www.facebook.com/groups/productmgmt/)
+
 # Thank You
+
 - [Andrey Malenkov](https://www.facebook.com/andriy.malenkov) @AndriyMal
 - [Dementiy Nenakhov](https://www.facebook.com/profile.php?id=100053059877077)
-
