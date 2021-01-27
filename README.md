@@ -39,7 +39,7 @@
 - Explainer video
 - Landing page
 - HADI cycles: [1](https://ideas.repec.org/a/ssi/jouesi/v7y2019i2p1628-1640.html), [2](https://www.kaushik.net/avinash/lean-analytics-cycle-metrics-hypothesis-experiment-act/)
-- User (Customer) journey map
+- [User (Customer) journey map](https://productschool.com/blog/product-management-2/user-journey-mapping/?utm_source=newslettercontent&utm_medium=email&utm_campaign=)
 
 ## More on Hypothesis Testing ([1](https://www.toptal.com/product-managers/data/product-hypothesis-testing#:~:text=This%20validation%20is%20traditionally%20done,change%20and%20then%20defines%20success.&text=Thus%2C%20product%20decisions%20on%20features,validate%20the%20performance%20of%20features.))
 
@@ -229,7 +229,7 @@ Books:
 - [The 7 books every Product Manager needs to learn by heart](https://veamly.medium.com/the-7-books-every-product-manager-needs-to-learn-by-heart-eb8a5a73aa47)
 - [The Ultimate List of Product Management Resources: Books, Blogs, and More](https://www.gainsight.com/blog/the-ultimate-list-of-product-management-resources-books-blogs-and-more/)
 - [Top 100 Resources for Product Managers](https://www.sachinrekhi.com/top-resources-for-product-managers)
-- [Product School resources and communities](https://productschool.com/free-product-management-resources/)
+- [Product School](https://productschool.com/blog/product-management-2/how-to-become-2/massive-list-online-offline-resources-to-become-product-manager/)
 - [A Living List Of Product Management Resources You’ll Want To Bookmark](https://medium.com/infinitypm/a-living-list-of-product-management-resources-youll-want-to-bookmark-c80b45aa1026)
 - [The Ultimate Guide to Resources for Product Managers - ProductPlan](https://www.productplan.com/learn/resources-for-product-managers/)
 - [14 Must-Read Books for Product Managers - ProductPlan](https://www.productplan.com/books-for-product-managers/)
@@ -241,6 +241,14 @@ Books:
 - [Product School - Facebook Community](https://www.facebook.com/groups/ProductManagersCommunity)
 - [Job for Products and Projects - Facebook](https://www.facebook.com/groups/forproducts/)
 - [Product Management - Vin Colella](https://www.facebook.com/groups/productmgmt/)
+
+And a few lists of communities:
+
+- [10 Communities Product Managers Should Join Today - Product School](https://productschool.com/blog/product-management-2/top-communities-product-managers/?utm_source=newslettercontent&utm_medium=email&utm_campaign=)
+- [7 Of The Best Slack Communities For Product Managers](https://www.drift.com/blog/the-7-best-slack-communities-for-product-managers/)
+- [11 Online Communities Product Managers Should Join](https://www.productplan.com/product-manager-communities/)
+- [10 Of The Best Slack Groups For Product Managers In 2018](https://stratejos.ai/blog/10-of-the-best-slack-groups-for-product-managers-in-2018/)
+- [15 Slack communities to follow if you are a product manager](https://www.productboard.com/blog/15-slack-communities-groups-for-product-managers/)
 
 # Thank You
 
